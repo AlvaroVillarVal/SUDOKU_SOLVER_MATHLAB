@@ -1,5 +1,5 @@
 function Sudoku()
-%Este es el programa de Sudoku desarrollado por Álvaro Villar, David Ibeas y Aitor Blanco.  
+%Este es el programa de Sudoku desarrollado por Álvaro Villar.  
 %Este consiste en un programa simple que se ejecuta desde el archivo Sudoku, estos archivos tienes que permanecer en la carpeta en la que viene para funcionar.   
 %Este programa te mostrara una rejilla de celdas las cuales se pueden rellenar con los numeros de un sudoku sin solucionar. 
 % Una vez introducidos, se pueden hacer dos cosas:  
