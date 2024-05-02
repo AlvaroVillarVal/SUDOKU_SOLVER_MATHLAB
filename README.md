@@ -1,5 +1,5 @@
 # Resolutor de sudokus en MathLab con interfaz de usuario
-## Autoria
+## Autoría
 Este es un programa de resolución de Sudoku desarrollado por Álvaro Villar Val.  
 ## Descripción
 Este consiste en un programa simple que se ejecuta desde el archivo Sudoku, estos archivos tienes que permanecer en la carpeta en la que viene para funcionar.   
